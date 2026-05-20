@@ -1,2 +1,3 @@
 # rps_docs
-documentation for [proj]
+documentation for [ReadySet DEO]
+currently work in progress
